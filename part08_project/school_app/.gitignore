@@ -1,0 +1,6 @@
+# virtual environment - never commit it, others rebuild it from requirements.txt
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
